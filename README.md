@@ -1,12 +1,12 @@
 
-# Life of a Self Taught Developer
+# Life of a Self-Taught Developer
 
 This project was created as a custom final project for my ERAU CS225 course. 
 
 
 ## Installation
 
-Just make sure you have a modern version of java, open my code, and run it
+Just make sure you have a modern version of Java, open my code, and run it in the terminal
 
     
 ## UML Diagram
